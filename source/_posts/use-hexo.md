@@ -4,6 +4,9 @@ date: 2017-11-12 20:16:36
 tags:
   - blog
   - hexo
+categories:
+  - blog
+  - intro
 ---
 
 # 새로운 포스트 등록하는 방법!!
