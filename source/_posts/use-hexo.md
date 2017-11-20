@@ -6,8 +6,26 @@ tags:
   - hexo
 categories:
   - blog
-  - intro
 ---
+
+# hexo 설치방법!!
+
+``` bash
+$ npm install -g hexo-cli
+```
+명령어로 hexo 설치후
+
+
+``` bash
+$ hexo init 블로그명
+$ cd 블로그명
+$ npm install
+```
+으로 hexo 블로그를 초기화 시키고 npm install을 해준다.
+
+이후 github repository에 등록해주면 된다.
+
+(github repoistory 등록할때 repository 명을 본인 github 계정명으로 해야한다.)
 
 # 새로운 포스트 등록하는 방법!!
 
